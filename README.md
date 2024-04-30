@@ -1,1 +1,1 @@
-# Non-Praametric-Prediction-Inteervals
+# Non-Parametric-Prediction-Inteervals
